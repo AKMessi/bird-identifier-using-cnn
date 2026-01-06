@@ -150,8 +150,8 @@ Copy code
 
 ```bash
 # Clone the repository
-git clone https://huggingface.co/spaces/YOUR_USERNAME/mumbai-bird-call-identifier
-cd mumbai-bird-call-identifier
+git clone https://huggingface.co/spaces/AKMESSI/bird-identifier
+cd bird-identifier
 
 # Create virtual environment
 python -m venv venv
